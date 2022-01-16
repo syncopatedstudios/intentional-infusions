@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: cover
 title:
 subtitle: "A fusion of purpose and beverage"
 sitemap:

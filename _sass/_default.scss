@@ -20,7 +20,7 @@ a {
 }
 
 h1 {
-  font-family: 'Special Elite', cursive;
+  font-family: 'Architects Daughter', cursive;
   font-weight: 200;
   font-size: 1.8em;
   display: flex;
@@ -43,7 +43,7 @@ h3 {
   font-size: 2.3em;
   font-weight: 500;
   line-height: 42px;
-  color: #35b61f;
+  color: #391fb6;
   text-align: center;
 }
 
@@ -57,7 +57,7 @@ h4 {
 p {
   font-size: 1.6em;
   font-weight: 500;
-  color: #35b61f;
+  color: #000000;
   font-family: "Noto Sans Mono";
   display: flex;
   // justify-content: space-around;
@@ -198,49 +198,49 @@ strong {
   }
 }
 
-.footer {
-  display: flex;
-  justify-content: center;
-  position: relative;
-  word-wrap: normal;
-  flex-wrap: wrap;
-  flex-direction: row;
-  align-items: center;
-  // margin-top: 40px;
-  // margin-bottom: 100px;
-
-  .navigation {
-    // float: none;
-    display: flex;
-    justify-content: center;
-  }
-
-  .menu {
-    font-size: 19px;
-    font-family: "Noto Sans Mono";
-    // margin: 6px 0 0;
-    padding-left: 0px;
-    // list-style-type: none;
-    // word-spacing: 0.5em;
-    // letter-spacing: 0.2em;
-    display: inherit;
-    justify-content: center;
-  }
-
-  .menu__entry {
-    display: flex;
-    margin-right: 35px;
-
-    &:last-child {
-      margin-right: 0;
-    }
-  }
-
-  .menu__entry a {
-    color: #621fa6;
-    font-weight: 400;
-  }
-}
+// .footer {
+//   display: flex;
+//   justify-content: center;
+//   position: relative;
+//   word-wrap: normal;
+//   flex-wrap: wrap;
+//   flex-direction: row;
+//   align-items: center;
+//   // margin-top: 40px;
+//   // margin-bottom: 100px;
+//
+//   .navigation {
+//     // float: none;
+//     display: flex;
+//     justify-content: center;
+//   }
+//
+//   .menu {
+//     font-size: 19px;
+//     font-family: "Noto Sans Mono";
+//     // margin: 6px 0 0;
+//     padding-left: 0px;
+//     // list-style-type: none;
+//     // word-spacing: 0.5em;
+//     // letter-spacing: 0.2em;
+//     display: inherit;
+//     justify-content: center;
+//   }
+//
+//   .menu__entry {
+//     display: flex;
+//     margin-right: 35px;
+//
+//     &:last-child {
+//       margin-right: 0;
+//     }
+//   }
+//
+//   .menu__entry a {
+//     color: #621fa6;
+//     font-weight: 400;
+//   }
+// }
 
 .social-links {
   float: unset;
