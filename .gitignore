@@ -1,1 +1,8 @@
 _site
+.sass-cache
+.jekyll-cache/
+Gemfile.lock
+.asset-cache
+.jekyll-metadata
+resources/*
+colors01

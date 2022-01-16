@@ -1,0 +1,13 @@
+<ul class="social-links">
+    {% if site.author.gitlab %}
+        <a href="https://gitlab.com/{{ site.author.gitlab }}" class="socialinks__entry" target="_blank">
+            <i class="fab fa-gitlab"></i>
+        </a>
+    {% endif %}
+
+    {% if site.author.twitter %}
+        <a href="https://twitter.com/{{ site.author.twitter }}class="social-links__entry" target="_blank">
+            <i class="fa fa-twitter"></i>
+        </a>
+    {% endif %}
+</ul>
